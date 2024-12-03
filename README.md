@@ -1,5 +1,6 @@
 ## Hola :) 
-<img src="https://github.com/user-attachments/assets/204a5e42-fec2-48e5-a441-11a5e4c99918" width="250"> 
+<img src="![image](https://github.com/user-attachments/assets/be2e52b3-2aa3-4fa8-9ce9-8f1ed2b94f7b)" width="250"> 
+
 <!--
 **alexxene/alexxene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
