@@ -1,5 +1,5 @@
 ## Hola :) 
-<img src="https://github.com/user-attachments/assets/be2e52b3-2aa3-4fa8-9ce9-8f1ed2b94f7b" width="320">  <img src="https://github.com/user-attachments/assets/c250e242-ba7e-42fc-8c7a-e696a0ac9385" width="200">
+<img src="https://github.com/user-attachments/assets/be2e52b3-2aa3-4fa8-9ce9-8f1ed2b94f7b" width="320"> 
 
 
 <!--
