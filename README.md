@@ -1,7 +1,7 @@
 ## Hola :) 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 ![image](https://github.com/user-attachments/assets/204a5e42-fec2-48e5-a441-11a5e4c99918)
-
+<img src="(https://github.com/user-attachments/assets/204a5e42-fec2-48e5-a441-11a5e4c99918" width="50"> 
 <!--
 **alexxene/alexxene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
